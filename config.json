@@ -1,0 +1,6 @@
+{
+"s3_bucket" : "belong-code-test",
+"local_path" : "/Users/hemantsingh/Downloads/",
+"sensors_loc" : "Pedestrian_Counting_System_-_Sensor_Locations.csv",
+"hourly_sensor" : "Pedestrian_Counting_System_-_Monthly__counts_per_hour_.csv"
+}

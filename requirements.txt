@@ -1,0 +1,14 @@
+# please make sure to install these packages before running:
+pip install pandas
+pip install sodapy
+pip install fastparquet
+pip install pyarrow
+
+# create a bucket on S3 using aws cli - the configured aws user should have required IAM permissions
+aws s3 mb s3://belong-code-test
+
+# please update the bucket name with "s3_bucket" field value in config file - config.json
+
+# if running the local load then please add the path of the 2 source files
+
+# please copy the config.json file in the same path where python files are kept
